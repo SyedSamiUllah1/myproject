@@ -1,0 +1,51 @@
+#aup{
+	width: 39%;
+	position: absolute;
+	top: 162px;
+  	Left: 16px;
+}
+.container{
+	 position: relative;
+  	 text-align: justify;
+  	 text-justify: inter-word;
+  	 color: black;
+}
+#auh{
+	border-bottom: 2px solid white;
+	position: absolute;
+	top: 100px;
+  	Left: 16px;
+}
+#auh2 {
+	position: absolute;
+	top: 100px;
+	left: 800px;
+	border-bottom: 2px solid white;
+
+}
+#aup2 {
+	position: absolute;
+	top: 162px;
+	left: 830px;
+	
+}
+#auh3 {
+	position: absolute;
+	top: 270px;
+	left: 800px;
+	border-bottom: 2px solid white;
+
+}
+#aup3 {
+	position: absolute;
+	top: 330px;
+	left: 830px;
+	
+}
+.container {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
